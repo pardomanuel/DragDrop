@@ -1,0 +1,19 @@
+#sectionEnvia{
+    border: 1px solid red;
+    float: left;
+    width: 500px;
+    height: 500px;
+    margin: 30px;
+    padding: 10px;
+}
+#sectionRecibe{
+    border: 1px solid blue;
+    float: left;
+    width: 500px;
+    height: 500px;
+    margin: 30px;
+    padding: 10px;
+}
+section img{
+    width: 300px;
+}
